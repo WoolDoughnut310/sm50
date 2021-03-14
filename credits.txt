@@ -1,0 +1,7 @@
+Made by Joseph Nma
+
+UI Design by Joseph Nma
+
+Game written in Lua with the LÖVE 2D framework.
+
+Copyright © 2021 Joseph Nma. All Rights Reserved.
